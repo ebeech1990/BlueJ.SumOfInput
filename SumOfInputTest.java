@@ -18,6 +18,7 @@ public class SumOfInputTest
      */
     //Bonus Question! How is this constructor used when none is defined
     //in the class?
+    //initializes empty object
     public SumOfInputTest()
     {
     }
